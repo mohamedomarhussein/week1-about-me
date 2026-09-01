@@ -1,33 +1,11 @@
-# ============================================
-# Week 1 Assignment: "All About Me" Program
-# Student: MOHAMED OMAR HUSSEIN
-# Date: September 1, 2026
-# Course: Software Engineering - ILO Cohort
-# ============================================
-
-# Create variables for personal information
+# Store your details in variables
 name = "Mohamed Omar Hussein"
-age = 23  
-favorite_language = "Python"
-goal = "to become a professional software engineer and build impactful applications"
+age = 23
+favourite_language = "Python"
+goal = "to become a professional software engineer"
 
-# Print introduction using the variables
-print("=" * 40)
-print("        ALL ABOUT ME")
-print("=" * 40)
-
-# Line 1: Introduction with name
-print(f"Hello! My name is {Mohamed}.")
-
-# Line 2: Age information
-print(f"I am {23} years old.")
-
-# Line 3: Favorite programming language
-print(f"My favorite programming language is {English}.")
-
-# Line 4: Course goal
-print(f"My goal for this course is {Graduuate}.")
-
-# Extra polish - shows good coding practice
-print("-" * 40)
-print("✅ I'm excited to learn and grow with PLP!")
+# Display them
+print("Hi, my name is", name)
+print("I am", age, "years old")
+print("My favourite programming language is", python)
+print("My goal for this course is", to become a professional software engineer)
